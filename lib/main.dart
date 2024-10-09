@@ -74,7 +74,6 @@ class _InitializationScreenState extends State<InitializationScreen> {
         body: Center(child: Text('Failed to initialize Firebase')),
       );
     }
-
     if (!_initialized) {
       return const Scaffold(
         body: Center(child: CircularProgressIndicator()), // Loading indicator while Firebase initializes
