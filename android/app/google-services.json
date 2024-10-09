@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018000489121",
+    "project_id": "flash-chat-5e9d7",
+    "storage_bucket": "flash-chat-5e9d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018000489121:android:46231de47cd99397cc0ee0",
+        "android_client_info": {
+          "package_name": "com.veeru.flash_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNB5Rk-RXcD46wwcXfZRpfC7Yk3m4jgmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
